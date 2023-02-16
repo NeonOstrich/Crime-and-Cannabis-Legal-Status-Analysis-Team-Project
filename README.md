@@ -4,10 +4,32 @@ and visualization in Python using Jupyter Notebook and displaying understanding 
 
 
 ## Organization
-Within "Project_1_Group_3" repository you will find this "README.md" file which provides an explanation of our process and analysis. You will also find the "Project Proposal", the "cannabis_legal_status_2020" csv file, the "dirty_data" Jupyter file, and the "clean_data" csv, and our powerpoint presentation. 
+Within this repository you will find this "README.md" file which provides an explanation of our process and analysis. You will also find the "Project Proposal", the "cannabis_legal_status_2020" csv file, the "dirty_data" Jupyter file, and the "clean_data" csv, and our powerpoint presentation. 
 
 In addition to these documents, we have an "Excel Files" folder which contains the original excel files which we pulled our starting data from, as well as the master excel file which all of these were put into before conversion into a csv.
-There is also a folder marked "ANOVAs by Crime" which contains ANOVA analysis of the different states grouped by their cannabis legalization status. And finally, there is a "Data Visualizations" folder which contains datavisualizations of each crime by state in addition to each crime by state grouped by their cannabis legalization status.
+There is also a folder marked "ANOVAs by Crime" which contains ANOVA analysis of the different states grouped by their cannabis legalization status. There is a "Regression Analysis" folder which contains the code and visuals of our regression analysis. And finally, there is a "Data Visualizations" folder which contains datavisualizations of each crime by state in addition to each crime by state grouped by their cannabis legalization status.
+
+##Why Investigate?
+
+###Multiple factors indicate that changing cannabis legal status has the potential to BOTH increase and decrease crime.
+
+Alcohol and opioid use is thought to decrease when cannabis is available as an alternative.
+
+There is less need for criminal cannabis organizations to use violence or carry weapons without fear of arrest.
+
+Mass shooters have an anecdotal association with cannabis.
+
+Major criminal organizations are thought to make the majority of their income off cannabis trafficking. Without this source they may explore more criminal alternatives.
+
+##Investigated questions
+
+How do crime rates differ between states?
+
+How does cannabis legal status relate to different types of crime?
+
+Do states with different legal statuses for cannabis have different crime rates?
+
+How does cannabis legal status affect crime rates?
 
 ## Background
 
@@ -19,7 +41,7 @@ The dataset that we analyzed includes 7209 datapoints which were law enforcement
 
 The crimes that we analyzed were Violent Crime, Rape, Robbery, Aggravated Assault, Property Crime, Burglary, Larceny-Theft, and Motor Vehicle Theft. In order to accurately compare these crimes across different states and law enforcement agencies, each value was converted to a per-capita metric.
 
-### Analysis objectives
+### Research Questions
 
 We focused on answering the following questions in order to determine the nature of the relationship (if any) between cannabis legal status and crime:
 
