@@ -50,4 +50,23 @@ We performed an ANOVA on our data in order to determine if the cannabis legal st
 
 When we graphed the means of each of these groups for each crime, a disturbing pattern emerged. This showed the trend that illegal states generally have high or medium crime rates, which decreases in the transition to medical states, decreasing further with the transition to decriminalized states, and finaly shooting up for recreational states, either to the level of illegal states, or sometimes even higher.
 
-Finally, we performed a regression analysis by crime of cannabis legal status in relation to crime rate. This showed us the extent to which cannabis legal status directly effects crime rates.
+Finally, we performed a regression analysis by crime of cannabis legal status in relation to crime rate. This produced very low r squared values, the highest being .05. This indicates that these variables do not have a linear relationship, perhapse because they have a curved relationship.
+
+## Possible Explanations for this pattern
+
+Cannabis has been shown to decrease dependence on alcohol and opioids.
+Decreasing penalties for possession makes it easier for medical patients, recreational users, and criminal organizations.
+Recreational Marijuana sets up a competitive industry that competes DIRECTLY with the black and grey market cannabis industry.
+Some of those working in the black and grey market are put out of business and need fresh streams of income, which may be more likely to be illicit.
+Recreational Cannabis facilities can not use banks, setting them up to be prime targets for theft and violence.
+
+## Directions for Future Study
+
+Improve reporting from Law Enforcement Agencies and repeat analysis.
+Repeat this analysis over multiple years and as more states adopt more lenient stances towards cannabis.
+Perform a comparative analysis of law enforcement agencies in recreational states in order to discover the lowest-crime implementation strategy.
+Investigate the size and practices of black and grey markets in all states.
+Investigate how black and grey markets respond to changes in cannabis’s legal status.
+Investigate the role of cartels, and interstate criminal networks in different states and whether this differs significantly in recreational states.
+
+
