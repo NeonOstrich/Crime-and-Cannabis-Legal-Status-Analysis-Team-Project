@@ -1,4 +1,5 @@
-# Project_1_Group_3: Crime & Cannabis Legality
+# Crime and Cannabis Legal Status Analysis
+# Team Project
 This is a group assignment that was completed for the George Washington University Data Analytics Bootcamp, focused on analysis
 and visualization in Python using Jupyter Notebook and displaying understanding of using public datasets to uncover insights.
 
