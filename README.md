@@ -63,6 +63,7 @@ Next we created visuals which show how each cannabis legal status type, compares
 
 Finally, we created regression analyses to show the extent to which the cannabis legality distinction is causally related to crime rates across the law enforcement agencies that we analyzed.
 
+![Violent_Crime](https://user-images.githubusercontent.com/119632669/225687264-30244e44-5c46-4932-9cf4-80e754773192.png)
 
 ## Insights
 We can see that some states have noticibly higher crime rates in certain categories. While sometimes this is consistant across multiple crimes, it is generally crime specific or crime type specific. This suggests that some states have more problems with certain types of crimes than others, and that these crimes do not have a high degree of interrelatability.
