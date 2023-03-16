@@ -63,16 +63,19 @@ Next we created visuals which show how each cannabis legal status type, compares
 
 Finally, we created regression analyses to show the extent to which the cannabis legality distinction is causally related to crime rates across the law enforcement agencies that we analyzed.
 
-![Violent_Crime](https://user-images.githubusercontent.com/119632669/225687264-30244e44-5c46-4932-9cf4-80e754773192.png)
 
 ## Insights
 We can see that some states have noticibly higher crime rates in certain categories. While sometimes this is consistant across multiple crimes, it is generally crime specific or crime type specific. This suggests that some states have more problems with certain types of crimes than others, and that these crimes do not have a high degree of interrelatability.
+![Property](https://user-images.githubusercontent.com/119632669/225688076-7ff086a8-f6ea-402a-99b4-6777940179b5.png)
+![Violent](https://user-images.githubusercontent.com/119632669/225688171-e880f4bc-22c6-4f2d-a754-bc3a789d6288.png)
 
 When we group states by their cannabis legal status, we can see that the states generally have closer values to eachother. While some states rank similarly across multiple crimes, there is quite a bit of variability, suggesting that individual states are higher in certain crimes than in others, and that other states have a different distributrion of criminal activity across crimes.
 
 We performed an ANOVA on our data in order to determine if the cannabis legal status groups were significantly different. In all of our analyses, we determined that at least one group was significantly different from at least one other, and we sometimes had as many as 5 instances of groups being significantly different. This suggests that there is a real difference between the crime rates of states with different cannabis legal statuses. 
 
 When we graphed the means of each of these groups for each crime, a disturbing pattern emerged. This showed the trend that illegal states generally have high or medium crime rates, which decreases in the transition to medical states, decreasing further with the transition to decriminalized states, and finaly shooting up for recreational states, either to the level of illegal states, or sometimes even higher.
+![Property_Crime](https://user-images.githubusercontent.com/119632669/225687659-aa03649f-57fa-4c26-b7e9-25f9705fc148.png)
+![Violent_Crime](https://user-images.githubusercontent.com/119632669/225687264-30244e44-5c46-4932-9cf4-80e754773192.png)
 
 Finally, we performed a regression analysis by crime of cannabis legal status in relation to crime rate. This produced very low r squared values, the highest being .05. This indicates that these variables do not have a linear relationship, perhapse because they have a curved relationship.
 
